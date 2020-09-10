@@ -1,0 +1,563 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Quartus_Files/simulation/modelsim
+vaddr_dec
+Z1 !s110 1599760989
+!i10b 1
+!s100 FN4?nl1gkY=mi9f^HF^jX2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I494znQFWC9GdcMV7f=8hG0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1595952370
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/addr_dec.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/addr_dec.v
+!i122 14
+Z5 L0 1 19
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1599760989.000000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/addr_dec.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/addr_dec.v|
+!i113 1
+Z8 o-vlog01compat -work work
+Z9 !s92 -vlog01compat -work work +incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP
+Z10 tCvgOpt 0
+vcore_fl
+R1
+!i10b 1
+!s100 A>57=TD7e6f>O_JGE^^N42
+R2
+IR_<bHzQoa6T3S`@V2o;mR1
+R3
+R0
+w1597587692
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/core_fl.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/core_fl.v
+!i122 13
+L0 1 182
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/core_fl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/core_fl.v|
+!i113 1
+R8
+R9
+R10
+vdenorm
+Z11 !s110 1599760986
+!i10b 1
+!s100 B_E:^AQ:KJ1M0h`Fa4bPO1
+R2
+IQFK1R_[b985>S<90OnHHm2
+R3
+R0
+Z12 w1597589364
+Z13 8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/ula_fl.v
+Z14 FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/ula_fl.v
+!i122 1
+L0 59 27
+R6
+r1
+!s85 0
+31
+Z15 !s108 1599760985.000000
+Z16 !s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/ula_fl.v|
+Z17 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/ula_fl.v|
+!i113 1
+R8
+R9
+R10
+vfloat2index
+Z18 !s110 1599760988
+!i10b 1
+!s100 ]j@Cm16TWWoC2=2RO<:Rk3
+R2
+If:f2LoQM062>K;>o]_]bz3
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2index.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2index.v
+!i122 12
+Z19 L0 1 17
+R6
+r1
+!s85 0
+31
+Z20 !s108 1599760988.000000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2index.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2index.v|
+!i113 1
+R8
+R9
+R10
+vfloat2int
+R18
+!i10b 1
+!s100 ZH>YPi3CMW12Xm2@7E;Yb0
+R2
+I;8GFV9bbf]AAPgjSc61OP1
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2int.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2int.v
+!i122 11
+R5
+R6
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2int.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/float2int.v|
+!i113 1
+R8
+R9
+R10
+vinstr_dec_fl
+R18
+!i10b 1
+!s100 Uok=PUF2@e6hbn4<MocLI3
+R2
+IidK99KLBlNXPnodXQFJZ>2
+R3
+R0
+w1597587570
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/instr_dec_fl.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/instr_dec_fl.v
+!i122 10
+L0 1 398
+R6
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/instr_dec_fl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/instr_dec_fl.v|
+!i113 1
+R8
+R9
+R10
+vint2float
+R18
+!i10b 1
+!s100 76mm2N^08?j`Lfge_HRjn3
+R2
+IQoSXKzj;YI;R2jH3c_6O;3
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/int2float.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/int2float.v
+!i122 9
+R19
+R6
+r1
+!s85 0
+31
+Z21 !s108 1599760987.000000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/int2float.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/int2float.v|
+!i113 1
+R8
+R9
+R10
+vmem_data
+Z22 !s110 1599760987
+!i10b 1
+!s100 75?g6k4S8HFR<=d3[TnQ21
+R2
+I^<1VJ4=zISkDkNd041d^F3
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_data.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_data.v
+!i122 8
+L0 1 27
+R6
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_data.v|
+!i113 1
+R8
+R9
+R10
+vmem_instr
+R22
+!i10b 1
+!s100 no3k5F``?K]I1=ebS4SD90
+R2
+I>m2K93:OVU4QAHGb6I<Vi1
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_instr.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_instr.v
+!i122 7
+Z23 L0 1 24
+R6
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_instr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/mem_instr.v|
+!i113 1
+R8
+R9
+R10
+vmydiv
+R11
+!i10b 1
+!s100 a>Hi7:1U7Igk397:JA4LY2
+R2
+IM>f9eX29S:A<Oh]117Egm3
+R3
+R0
+R12
+R13
+R14
+!i122 1
+L0 173 22
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R8
+R9
+R10
+vmymult
+R11
+!i10b 1
+!s100 23>oB=SPmkHM_>h07gXK01
+R2
+IL[4k5_3eE<SSlM37iW4gj1
+R3
+R0
+R12
+R13
+R14
+!i122 1
+L0 147 23
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R8
+R9
+R10
+vmymux
+R11
+!i10b 1
+!s100 T9BWOYF[1;9dhC8M?Y]zg3
+R2
+Im4XDFfH44iBln@]iYH^?I0
+R3
+R0
+R12
+R13
+R14
+!i122 1
+L0 7 14
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R8
+R9
+R10
+vmysoma
+R11
+!i10b 1
+!s100 z`XJ3jZiBJnBGNjj=XU@R3
+R2
+Iml1G>P7GjIV6XBWz4a6T52
+R3
+R0
+R12
+R13
+R14
+!i122 1
+L0 123 21
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R8
+R9
+R10
+vnorm
+R11
+!i10b 1
+!s100 NVk?nEVBonA59Gz:bMFM43
+R2
+IQ3ddMoYFQ9lH[IUQRZ?hf0
+R3
+R0
+R12
+R13
+R14
+!i122 1
+L0 24 32
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R8
+R9
+R10
+voutmux
+R11
+!i10b 1
+!s100 j`EXLUOYX_0U@R7`N3S^b2
+R2
+IhSDE[KKR>0`Dd3kKIOo2g3
+R3
+R0
+R12
+R13
+R14
+!i122 1
+L0 89 27
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R8
+R9
+R10
+vpc
+R22
+!i10b 1
+!s100 R3f5cKFaWFX032ehIlP:Y3
+R2
+I9_J=[kf?dQUPE81o^zi]n1
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/pc.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/pc.v
+!i122 6
+R23
+R6
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/pc.v|
+!i113 1
+R8
+R9
+R10
+vprefetch
+R22
+!i10b 1
+!s100 A@kVOK9=jk22:WkSIWDnQ2
+R2
+IRj02N5Y;d1ZK4Si4a>l2C0
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/prefetch.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/prefetch.v
+!i122 5
+L0 1 60
+R6
+r1
+!s85 0
+31
+Z24 !s108 1599760986.000000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/prefetch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/prefetch.v|
+!i113 1
+R8
+R9
+R10
+vproc_fl
+R11
+!i10b 1
+!s100 FSaYIMlbDQnP4R8PX4Eb02
+R2
+IoSEcDdz_@Q@Vn08ozDhnj2
+R3
+R0
+w1597587244
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/proc_fl.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/proc_fl.v
+!i122 4
+L0 1 141
+R6
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/proc_fl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/proc_fl.v|
+!i113 1
+R8
+R9
+R10
+vreg_file
+R11
+!i10b 1
+!s100 egj:Gea5K6MND5@39;baZ2
+R2
+I_nnnUAl]Q7zH>RQBH?iZ?0
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/reg_file.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/reg_file.v
+!i122 3
+L0 1 29
+R6
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/reg_file.v|
+!i113 1
+R8
+R9
+R10
+vstack_pointer
+R11
+!i10b 1
+!s100 b[Dd1UEHmCEzoz9iCj5n?3
+R2
+InZHh`hMfl^]Az_TZz0ZZ71
+R3
+R0
+R4
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/stack_pointer.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/stack_pointer.v
+!i122 2
+L0 1 25
+R6
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/stack_pointer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Proc_IP/stack_pointer.v|
+!i113 1
+R8
+R9
+R10
+vtesteredefloat2
+!s110 1599760985
+!i10b 1
+!s100 nXj@1?Ho7dZTX=NJ`4]Ch2
+R2
+IkKYW502z[i6dUZgAU?VLC1
+R3
+R0
+w1599760891
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/testeredefloat2_H/testeredefloat2.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/testeredefloat2_H/testeredefloat2.v
+!i122 0
+L0 1 40
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/testeredefloat2_H/testeredefloat2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/testeredefloat2_H|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/testeredefloat2_H/testeredefloat2.v|
+!i113 1
+R8
+!s92 -vlog01compat -work work +incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/testeredefloat2_H
+R10
+vtesteredefloat2_tb
+R1
+!i10b 1
+!s100 KSH>zkVYWM0IMiS2BCNRB1
+R2
+I2BGRFm`=:X1nQV_HKOM0n1
+R3
+R0
+w1599760353
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Quartus_Files/testeredefloat2_tb.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Quartus_Files/testeredefloat2_tb.v
+!i122 15
+L0 1 35
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Quartus_Files/testeredefloat2_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Quartus_Files|C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Quartus_Files/testeredefloat2_tb.v|
+!i113 1
+R8
+!s92 -vlog01compat -work work +incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/IC_Luciano/Rede_Neural/testeredefloat2/Hardware/Quartus_Files
+R10
+vula_fl
+R11
+!i10b 1
+!s100 aOBeR;eOT=9`K8`JkJ_O53
+R2
+IhR5U06LJZWLhR9n`JlIFU1
+R3
+R0
+R12
+R13
+R14
+!i122 1
+L0 200 167
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R8
+R9
+R10
