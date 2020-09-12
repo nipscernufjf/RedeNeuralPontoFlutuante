@@ -1,0 +1,7 @@
+
+	lute_out_n_0 = tab[indice0];
+	if (soma0 < 0)
+		lute_out_n_0 = -lute_out_n_0;
+comp(soma0,lutoutn0)
+	
+	
