@@ -1,0 +1,465 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ferre\Desktop\teste\Hardware\Quartus_Files\simulation\modelsim
+vaddr_dec
+ICVK1:6;da3:A<:PbF3joK1
+VhnN1km5=Vgo<>SZe`UAiZ1
+Z1 dC:\Users\ferre\Desktop\teste\Hardware\Quartus_Files\simulation\modelsim
+Z2 w1597590617
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/addr_dec.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/addr_dec.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-vlog01compat -work work -O0
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP -O0
+!i10b 1
+!s100 6<^l_4k5eZKkno;DhHjD:1
+!s85 0
+!s108 1599748219.801000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/addr_dec.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/addr_dec.v|
+!s101 -O0
+vcore_fl
+IP724WNR`@OFl9d9:ne8b;3
+V<gaYCa]8dJ;413A1:IiZd0
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/core_fl.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/core_fl.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 bHSP`7eZM3XZHM>;aC?1V3
+!s85 0
+!s108 1599748219.523000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/core_fl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/core_fl.v|
+!s101 -O0
+vdenorm
+IhnMMBNcCHYnWhNA52<:O22
+Vm4^K7R8`gjl=lfYU4lh7m0
+R1
+R2
+Z6 8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/ula_fl.v
+Z7 FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/ula_fl.v
+L0 59
+R3
+r1
+31
+Z8 !s108 1599748214.678000
+Z9 !s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/ula_fl.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/ula_fl.v|
+R4
+R5
+!i10b 1
+!s100 ;D1f<jf>jJiMUXWml;Tk^3
+!s85 0
+!s101 -O0
+vfloat2index
+In^?HNzdMj<hY@Tf5S2]^90
+V91DLaIcKeDYgebO`I36JU0
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2index.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2index.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 hD?^b@2RD[h`=zAi;mlo92
+!s85 0
+!s108 1599748219.200000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2index.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2index.v|
+!s101 -O0
+vfloat2int
+IXo7]4T<FlR^[>fh6V1Woc2
+Vza=_EC:NXOf9?FVg0B1UL3
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2int.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2int.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 6SgF]@nbhj49SZ0hAcGz23
+!s85 0
+!s108 1599748218.903000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2int.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/float2int.v|
+!s101 -O0
+vinstr_dec_fl
+I4oVh=f5]>7zEfAeT0Q62n0
+V29LBPKX1UXjQ=7?aV1HDN0
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/instr_dec_fl.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/instr_dec_fl.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 g<Cn=mfHZMVDmn0^bH?kj3
+!s85 0
+!s108 1599748218.616000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/instr_dec_fl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/instr_dec_fl.v|
+!s101 -O0
+vint2float
+IOn`8Z^TG[NcYRZT51cWf:1
+VAS>0zA`5GPLB@SM>FeMe53
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/int2float.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/int2float.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ^]4e6HXoM2lnP6mb>A2V63
+!s85 0
+!s108 1599748218.090000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/int2float.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/int2float.v|
+!s101 -O0
+vmem_data
+IAX@EFdMI?hz3@=ATbYc8?3
+Vc=XTUei1[j?4^jD]jCoSD3
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_data.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_data.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 G:WkZ]kF2I[=aedQQ<oo;0
+!s85 0
+!s108 1599748217.786000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_data.v|
+!s101 -O0
+vmem_instr
+Io;daaE4YlAzW[KUnYO6860
+VlT7SF^?LcOezh1Pdb;JLj0
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_instr.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_instr.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 JPO7@[j8V`NH3VaE<EBcY0
+!s85 0
+!s108 1599748217.497000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_instr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/mem_instr.v|
+!s101 -O0
+vmydiv
+IXJL6WLoPcfZkUM`]=h94h3
+VM4Cho8bj;WVV=Hl6@D0Id3
+R1
+R2
+R6
+R7
+L0 173
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 WG4^B9lVilQ6M8267ednm0
+!s85 0
+!s101 -O0
+vmymult
+IgWe;W]3?ARf41>]YGeSN33
+VTL]ZQAmKJP]_H[P1GZZIJ2
+R1
+R2
+R6
+R7
+L0 147
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 ^L[I2cICX@IVX0cC:FTFY0
+!s85 0
+!s101 -O0
+vmymux
+I;?`k=Y>3=lRHOA=ailXj`3
+VA2AMzmzRe2<L@zlZ1jf1<0
+R1
+R2
+R6
+R7
+L0 7
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 e=S5FPJ6NE=b=`9c6ENHX1
+!s85 0
+!s101 -O0
+vmysoma
+I?dO9EHY[gEQ``0;37Mm[13
+VM8N8@=AXG5FDB=9WdhIDb0
+R1
+R2
+R6
+R7
+L0 123
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 ^k803QD_SDg7=]33dMldS0
+!s85 0
+!s101 -O0
+vnorm
+IGTQ:TzF5nkGlikD`[OH[F2
+VfXL]Qib?PK40ggPhg5_0J3
+R1
+R2
+R6
+R7
+L0 24
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 Ma=N1G0zNA>2GmF`6mL_]0
+!s85 0
+!s101 -O0
+voutmux
+IOiL:4DHaoG?19_WklPQCT2
+Vf:VB21cDm[kOMbTag3<iD3
+R1
+R2
+R6
+R7
+L0 89
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 HVCSoM4UG?Ag4NQ]Nk95C0
+!s85 0
+!s101 -O0
+vpc
+I5P@ALEg2KQ]9EQ@3ILJ1N1
+VBac9UNP8b^0HolBkI1Olb3
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/pc.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/pc.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 k^BZ<P:Jg0O>f=Com@02D3
+!s85 0
+!s108 1599748217.090000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/pc.v|
+!s101 -O0
+vprefetch
+IUaFcJC6ZTEz;B:]@a@4P[3
+VmE4aBNGM4<k>Q@ec0VQgC0
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/prefetch.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/prefetch.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ^P[DoZI8ha[D87;8zzVgb0
+!s85 0
+!s108 1599748216.797000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/prefetch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/prefetch.v|
+!s101 -O0
+vproc_fl
+IUeZH?J1LK_^RA48K82@zZ0
+VBT_2_Qm?7T9gd?e5S?SeF1
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/proc_fl.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/proc_fl.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 @cBJ8a6^:3JjkVQUY3nj62
+!s85 0
+!s108 1599748216.484000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/proc_fl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/proc_fl.v|
+!s101 -O0
+vreg_file
+INPKQFa@_A4<7kF2mjBDED1
+VRLCKg<IUkW[4G_HJB>4?]1
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/reg_file.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/reg_file.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 4_n9Y=VEFChcWZL<ngoAN3
+!s85 0
+!s108 1599748216.178000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/reg_file.v|
+!s101 -O0
+vstack_pointer
+IZcS_Tm6OVaAOzR>@Ilkf^2
+VfEan<A7i6M80>QR]`GYI^1
+R1
+R2
+8C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/stack_pointer.v
+FC:/Users/ferre/Desktop/teste/Hardware/Proc_IP/stack_pointer.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 cffzMf8_VVCAhl>U9bk2b3
+!s85 0
+!s108 1599748215.981000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/stack_pointer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Proc_IP|C:/Users/ferre/Desktop/teste/Hardware/Proc_IP/stack_pointer.v|
+!s101 -O0
+vteste
+IdRfiK]eTTVUglTOWdmf2z1
+Vo<T2QGBi:OQmhXW@nSB]Q2
+R1
+w1599748138
+8C:/Users/ferre/Desktop/teste/Hardware/teste_H/teste.v
+FC:/Users/ferre/Desktop/teste/Hardware/teste_H/teste.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 fMg9Ba0GmGzE`R=>Xf_ck2
+!s85 0
+!s108 1599748214.395000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/teste_H/teste.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/teste_H|C:/Users/ferre/Desktop/teste/Hardware/teste_H/teste.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/ferre/Desktop/teste/Hardware/teste_H -O0
+vteste_tb
+!i10b 1
+!s100 o_Fe[foSYG<XP7981QEg;3
+IXO^ohKVIEON0aOH=KazJe3
+Voik<g9QY@Q41]9g74OehM0
+R1
+w1599745663
+8C:/Users/ferre/Desktop/teste/Hardware/Quartus_Files/../teste_H/teste_tb.v
+FC:/Users/ferre/Desktop/teste/Hardware/Quartus_Files/../teste_H/teste_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1599748220.101000
+!s107 C:/Users/ferre/Desktop/teste/Hardware/Quartus_Files/../teste_H/teste_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ferre/Desktop/teste/Hardware/Quartus_Files/../teste_H|C:/Users/ferre/Desktop/teste/Hardware/Quartus_Files/../teste_H/teste_tb.v|
+!s101 -O0
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/ferre/Desktop/teste/Hardware/Quartus_Files/../teste_H -O0
+vula_fl
+IXZ]Wd9Qb34b<ETgYSmR313
+VL9JeLBl@bZ79a8m[=Nbn;1
+R1
+R2
+R6
+R7
+L0 200
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 h@W:6Y_RbEnF>GJ9JmJN63
+!s85 0
+!s101 -O0

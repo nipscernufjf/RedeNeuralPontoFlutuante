@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="teste">
+		<CBX_INST_ENTRY INSTANCE_NAME="|teste|proc_fl:p_teste|mem_data:mdata|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_9vr1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teste|proc_fl:p_teste|mem_instr:minstr|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_a4d1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
