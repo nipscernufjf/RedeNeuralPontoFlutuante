@@ -157,7 +157,7 @@ LOAD mainy0
 MLT 0.0000596501284629742
 ADD 0.138871943729863
 PLD mainy2
-MLT 0.000466346740722656
+MLT 0.000466794598079450
 SADD
 PLD mainy4
 MLT 0.00184788475713698
@@ -196,9 +196,11 @@ JZ L2else
 LOAD 16
 MLT mainsoma0
 ABS
+PLD 1
+SADD
 SET mainindice0
 JMP L2end
-@L2else LOAD 64.0
+@L2else LOAD 65.0
 SET mainindice0
 @L2end LOAD 3.0
 LES mainsoma1
@@ -211,9 +213,11 @@ JZ L3else
 LOAD 16
 MLT mainsoma1
 ABS
+PLD 1
+SADD
 SET mainindice1
 JMP L3end
-@L3else LOAD 64.0
+@L3else LOAD 65.0
 SET mainindice1
 @L3end LOAD 3.0
 LES mainsoma2
@@ -226,9 +230,11 @@ JZ L4else
 LOAD 16
 MLT mainsoma2
 ABS
+PLD 1
+SADD
 SET mainindice2
 JMP L4end
-@L4else LOAD 64.0
+@L4else LOAD 65.0
 SET mainindice2
 @L4end LOAD 1.0
 LES mainsoma3
@@ -241,124 +247,57 @@ JZ L5else
 LOAD 16384
 MLT mainsoma3
 ABS
+PLD 1
+SADD
 SET mainindice3
 JMP L5end
 @L5else LOAD 32769.0
 SET mainindice3
-@L5end LOAD 64.0
-LES mainindice0
+@L5end LOAD mainindice0
+PUSH
+SRF
+LOAD maintab
+SET mainlute_out_n_0
+LOAD 0
+LES mainsoma0
 JZ L6else
+LOAD mainlute_out_n_0
+NEG
+SET mainlute_out_n_0
+@L6else LOAD mainindice1
+PUSH
+SRF
+LOAD maintab
+SET mainlute_out_n_1
 LOAD 0
-LES mainsoma0
+LES mainsoma1
 JZ L7else
-LOAD mainindice0
-PUSH
-SRF
-LOAD maintab
+LOAD mainlute_out_n_1
 NEG
-SET mainlute_out_n_0
-JMP L7end
-@L7else LOAD mainindice0
+SET mainlute_out_n_1
+@L7else LOAD mainindice2
 PUSH
 SRF
 LOAD maintab
-SET mainlute_out_n_0
-@L7end JMP L6end
-@L6else LOAD 0
-LES mainsoma0
+SET mainlute_out_n_2
+LOAD 0
+LES mainsoma2
 JZ L8else
-LOAD 1.0
+LOAD mainlute_out_n_2
 NEG
-SET mainlute_out_n_0
-JMP L8end
-@L8else LOAD 1.0
-SET mainlute_out_n_0
-@L8end @L6end LOAD 64.0
-LES mainindice1
+SET mainlute_out_n_2
+@L8else LOAD mainindice3
+PUSH
+SRF
+LOAD maintab4
+SET mainlute_out_n_3
+LOAD 0
+LES mainsoma3
 JZ L9else
-LOAD 0
-LES mainsoma1
-JZ L10else
-LOAD mainindice1
-PUSH
-SRF
-LOAD maintab
-NEG
-SET mainlute_out_n_1
-JMP L10end
-@L10else LOAD mainindice1
-PUSH
-SRF
-LOAD maintab
-SET mainlute_out_n_1
-@L10end JMP L9end
-@L9else LOAD 0
-LES mainsoma1
-JZ L11else
-LOAD 1.0
-NEG
-SET mainlute_out_n_1
-JMP L11end
-@L11else LOAD 1.0
-SET mainlute_out_n_1
-@L11end @L9end LOAD 64.0
-LES mainindice2
-JZ L12else
-LOAD 0
-LES mainsoma2
-JZ L13else
-LOAD -1
-PLD mainindice2
-PUSH
-SRF
-LOAD maintab
-SMLT
-SET mainlute_out_n_2
-JMP L13end
-@L13else LOAD mainindice2
-PUSH
-SRF
-LOAD maintab
-SET mainlute_out_n_2
-@L13end JMP L12end
-@L12else LOAD 0
-LES mainsoma2
-JZ L14else
-LOAD 1.0
-NEG
-SET mainlute_out_n_2
-JMP L14end
-@L14else LOAD 1.0
-SET mainlute_out_n_2
-@L14end @L12end LOAD 32768.0
-LES mainindice3
-JZ L15else
-LOAD 0
-LES mainsoma3
-JZ L16else
-LOAD mainindice3
-PUSH
-SRF
-LOAD maintab4
+LOAD mainlute_out_n_3
 NEG
 SET mainlute_out_n_3
-JMP L16end
-@L16else LOAD mainindice3
-PUSH
-SRF
-LOAD maintab4
-SET mainlute_out_n_3
-@L16end JMP L15end
-@L15else LOAD 0
-LES mainsoma3
-JZ L17else
-LOAD 15795.0
-NEG
-SET mainlute_out_n_3
-JMP L17end
-@L17else LOAD 15795.0
-SET mainlute_out_n_3
-@L17end @L15end LOAD 10.2534060751568
+@L9else LOAD 10.2534060751568
 MLT mainlute_out_n_1
 PLD 1358.22773877427
 MLT mainlute_out_n_3
@@ -372,11 +311,9 @@ PLD 189.214868378811
 SADD
 NEG
 SADD
-PLD 100
-SMLT
-SET mainsaida_rede
+SET mainsaidaflutuante
 LOAD 0
-PLD mainsaida_rede
+PLD mainsaidaflutuante
 OUT
 LOAD 1
 ADD maini
